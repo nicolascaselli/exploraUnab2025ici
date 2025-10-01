@@ -1,0 +1,20 @@
+# Núcleo científico / imagen
+numpy==1.26.4
+opencv-python==4.10.0.84
+pillow==10.3.0
+
+# MediaPipe (manos/cara)
+mediapipe==0.10.14
+
+# Gradio 5 estable
+gradio==5.7.1
+
+# Streamlit + WebRTC
+streamlit==1.37.1
+streamlit-webrtc==0.47.7
+aiortc==1.9.0
+aioice==0.9.0
+av==12.3.0
+
+# Utilidades
+packaging==24.1
